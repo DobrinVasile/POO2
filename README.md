@@ -1,2 +1,3 @@
 # POO2
-Laborator semestrul ll
+Laborator semestrul 2-lucrari+teme
+
